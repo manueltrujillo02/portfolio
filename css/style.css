@@ -1,0 +1,36 @@
+.donut{
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    
+}
+
+/* .border{ */
+    /* border-bottom: 20px; */
+    /* border-color: black; */
+    /* padding: black; */
+    
+
+
+#done{
+    font-size: 100px;
+}
+
+ #main-container { 
+    border: 1px solid black;
+    /* padding-top: 130px; */
+    /* min-height: calc(100vh - 70px); */
+    
+}
+.main-section {
+    float: left;
+    width: 100%;
+    max-width: 960px;
+    padding: 30px;
+    margin: 0 0 40px;
+    background: #ffffff;
+    border: 1px solid black;
+}
+.other{
+    font-family: 'Playfair Display', serif;
+    
+}
